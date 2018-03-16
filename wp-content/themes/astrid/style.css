@@ -1505,6 +1505,9 @@ body.page-template-page_widgetized {
 	display: block;
     max-height: 90px;
     margin: 0 auto;
+		width: 123px;
+		opacity: 0.8;
+
 }
 .content-area {
 	width: 811px;
@@ -1695,6 +1698,7 @@ body.page-template-page_widgetized {
 	float: left;
 	text-align: center;
 	padding: 30px 30px 15px 15px;
+	opacity: 0.8;
 }
 .footer-logo {
 	max-height: 100px;
