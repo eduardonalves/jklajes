@@ -1300,6 +1300,7 @@ section.at-3-col {
 	margin: 0 0 30px;
 	padding: 15px;
 	background-color: #202529;
+	color: #fff;
 }
 .employee-title a {
 	color: #fff;
@@ -1424,6 +1425,7 @@ section.at-3-col {
 }
 .testimonial-title {
 	margin-bottom: 0;
+	color: #272727;
 }
 .testimonial-title a {
 	color: #272727;
