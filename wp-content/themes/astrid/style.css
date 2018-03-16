@@ -43,7 +43,7 @@ h6 {
 }
 a,
 a:hover {
-	color: #fcd088;
+	color: #EABD07;
 	-webkit-transition: color 0.3s;
 	transition: color 0.3s;
 }
@@ -106,8 +106,8 @@ input[type="reset"],
 input[type="submit"] {
 	font-size: 14px;
 	padding: 12px 30px;
-	border: 1px solid #fcd088;
-	color: #fcd088;
+	border: 1px solid #EABD07;
+	color: #EABD07;
 	text-transform: uppercase;
 	letter-spacing: 4px;
 	background-color: transparent;
@@ -128,7 +128,7 @@ button:hover,
 input[type="button"]:hover,
 input[type="reset"]:hover,
 input[type="submit"]:hover {
-	background-color: #fcd088;
+	background-color: #EABD07;
 	text-decoration: none;
 	color: #333;
 }
@@ -257,14 +257,14 @@ select {
 }
 .main-navigation li a::before {
 	right: 0;
-	border-top: 1px solid #fcd088;
+	border-top: 1px solid #EABD07;
 }
 .main-navigation ul ul ul {
 	top: 0 !important;
 }
 .main-navigation li a::after {
 	left: 0;
-	border-bottom: 1px solid #fcd088;
+	border-bottom: 1px solid #EABD07;
 }
 .main-navigation li a:hover::before,
 .main-navigation li a:hover::after {
@@ -305,7 +305,7 @@ select {
 
 .main-navigation a:hover,
 .main-navigation li.focus > a {
-	color: #fcd088;
+	color: #EABD07;
 }
 
 .main-navigation ul ul :hover > a,
@@ -427,7 +427,7 @@ select {
 .comment-navigation a:hover,
 .posts-navigation a:hover,
 .post-navigation a:hover {
-	color: #fcd088;
+	color: #EABD07;
 	text-decoration: none;
 }
 .comment-navigation .nav-next,
@@ -827,7 +827,7 @@ select {
 .entry-meta a:hover,
 .entry-footer a:hover,
 .entry-title a:hover {
-	color: #fcd088;
+	color: #EABD07;
 	text-decoration: none;
 }
 /* Masonry */
@@ -1233,7 +1233,7 @@ section.at-3-col {
 	text-decoration: none;
 }
 .service-title a:hover {
-	color: #fcd088;
+	color: #EABD07;
 }
 /* Skills */
 .skill {
@@ -1245,7 +1245,7 @@ section.at-3-col {
 	position: relative;
 }
 .progress-animate {
-	background-color: #fcd088;
+	background-color: #EABD07;
 	height: 5px;
 	position: absolute;
 	top: 0;
@@ -1269,7 +1269,7 @@ section.at-3-col {
 }
 .fact .fa {
 	font-size: 44px;
-	color: #fcd088;
+	color: #EABD07;
 }
 .fact .fact-number {
 	font-size: 36px;
@@ -1306,7 +1306,7 @@ section.at-3-col {
 	color: #fff;
 }
 .employee-title a:hover {
-	color: #fcd088;
+	color: #EABD07;
 	text-decoration: none;
 }
 /* Projects */
@@ -1432,7 +1432,7 @@ section.at-3-col {
 	text-decoration: none;
 }
 .testimonial-title a:hover {
-	color: #fcd088;
+	color: #EABD07;
 }
 /* Clients */
 .client-area {
@@ -1545,7 +1545,7 @@ body.page-template-page_widgetized {
 }
 .page-header .page-title .fa {
 	margin-right: 15px;
-	color: #fcd088;
+	color: #EABD07;
 }
 
 /*--------------------------------------------------------------
@@ -1646,7 +1646,7 @@ body.page-template-page_widgetized {
 .footer-info a:hover,
 .footer-widgets a:hover {
 	text-decoration: none;
-	color: #fcd088;
+	color: #EABD07;
 }
 .footer-widgets .widget-title {
 	margin: 0 0 30px;
@@ -1781,7 +1781,7 @@ body.page-template-page_widgetized {
 	position: absolute;
 	width: 2px;
 	height: 0;
-	background-color: #fcd088;
+	background-color: #EABD07;
 	bottom: 0;
 }
 .preloader-inner li:nth-child(1) {
@@ -1913,7 +1913,7 @@ body.page-template-page_widgetized {
 }
 .woocommerce .star-rating {
 	width: 78px;
-	color: #fcd088;
+	color: #EABD07;
 }
 .woocommerce #payment #place_order,
 .woocommerce-page #payment #place_order,
@@ -1928,18 +1928,18 @@ body.page-template-page_widgetized {
     cursor: pointer;
     position: relative;
     padding: 12px 30px;
-    border: 1px solid #fcd088;
+    border: 1px solid #EABD07;
     font-weight: 300;
     border-radius: 0;
     left: auto;
-    color: #fcd088;
+    color: #EABD07;
     background-color: transparent;
 }
 .woocommerce .woocommerce-message {
-	border-color: #fcd088;
+	border-color: #EABD07;
 }
 .woocommerce .woocommerce-message:before {
-	color: #fcd088;
+	color: #EABD07;
 }
 .woocommerce #payment #place_order:hover,
 .woocommerce-page #payment #place_order:hover,
@@ -1948,7 +1948,7 @@ body.page-template-page_widgetized {
 .woocommerce #review_form #respond .form-submit input:hover,
 .woocommerce div.product form.cart .button:hover,
 .woocommerce a.button:hover {
-	background-color: #fcd088;
+	background-color: #EABD07;
     text-decoration: none;
     color: #333;
 }
@@ -1984,7 +1984,7 @@ body.page-template-page_widgetized {
     font-weight: 300;
 }
 .woocommerce span.onsale {
-	background-color: #fcd088;
+	background-color: #EABD07;
 }
 .woocommerce ul.products li.product .onsale {
 	border-radius: 0;
