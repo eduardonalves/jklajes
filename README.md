@@ -1,3 +1,3 @@
 # JK Lajes
-site da jk lajes em Worpress
+Site da JK Lajes em Worpress
  
